@@ -1,0 +1,10 @@
+{
+    "Basic HTML table" :{
+        "prefix":"!testsnippet",
+        "body":[
+            "<div>",
+            "Test Snippet",
+            "</div>"
+        ]
+    }
+}
