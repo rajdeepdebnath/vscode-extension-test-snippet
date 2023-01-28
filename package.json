@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.74.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajdeepdebnath/vscode-extension-test-snippet.git"
+  },
   "icon": "snippet.png",
   "categories": [
     "Snippets"
